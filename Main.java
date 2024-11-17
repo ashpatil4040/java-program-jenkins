@@ -8,6 +8,7 @@ public static void main(String[] args) {
   System.out.println(new Date());
   System.out.println("hello");
   System.out.println("added by Akash");
-  
+  Student s = new Student();
+  s.display();
 }
 }
